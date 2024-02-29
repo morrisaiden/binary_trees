@@ -4,6 +4,7 @@
  * @tree: Pointer to the root node of the tree.
  *
  * Return: 1 if the binary tree is full, 0 otherwise.
+ *
  */
 
 int is_full_recursive(const binary_tree_t *tree)
